@@ -1,0 +1,15 @@
+C:\Users\Паша ороль\C#\C#_Hello\bin\Debug\net6.0\C#_Hello.exe
+C:\Users\Паша ороль\C#\C#_Hello\bin\Debug\net6.0\C#_Hello.deps.json
+C:\Users\Паша ороль\C#\C#_Hello\bin\Debug\net6.0\C#_Hello.runtimeconfig.json
+C:\Users\Паша ороль\C#\C#_Hello\bin\Debug\net6.0\C#_Hello.dll
+C:\Users\Паша ороль\C#\C#_Hello\bin\Debug\net6.0\C#_Hello.pdb
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.csproj.AssemblyReference.cache
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.AssemblyInfoInputs.cache
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.AssemblyInfo.cs
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.csproj.CoreCompileInputs.cache
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.dll
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\refint\C#_Hello.dll
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.pdb
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\C#_Hello.genruntimeconfig.cache
+C:\Users\Паша ороль\C#\C#_Hello\obj\Debug\net6.0\ref\C#_Hello.dll
